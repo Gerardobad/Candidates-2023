@@ -32,11 +32,22 @@ $ git clone git@github.com:your-username/Candidates-2022.git
 
 Tasks:
 1. Read [xArm Developer](https://github.com/xArm-Developer/xarm_ros) documentation
-2. Install any additional resource in order to use the [xArm Developer (3)](https://github.com/xArm-Developer/xarm_ros#3-preparations-before-using-this-package) package
-3. Identify neccesary launchfiles to test [lite6](https://www.ufactory.cc/lite-6-collaborative-robot) robot ([Reference](https://github.com/xArm-Developer/xarm_ros#5-package-description--usage-guidance))
-4. Run the [Color Cube Grasping Demo](https://github.com/xArm-Developer/xarm_ros#75-color-cube-grasping-demo)(It's not neccesary to use the lite6 robot)
-5. Understand the [color_recognition.py](https://github.com/xArm-Developer/xarm_ros/blob/master/xarm_gazebo/scripts/color_recognition.py) script
-6. Create a service which, depending the color you send, it returns a list with all the cubes positions. Then create an script able to perfom a pick and place task one cube over another in any order you want
+- [x] Done
+
+3. Install any additional resource in order to use the [xArm Developer (3)](https://github.com/xArm-Developer/xarm_ros#3-preparations-before-using-this-package) package
+- [ ] Done
+
+5. Identify neccesary launchfiles to test [lite6](https://www.ufactory.cc/lite-6-collaborative-robot) robot ([Reference](https://github.com/xArm-Developer/xarm_ros#5-package-description--usage-guidance))
+- [ ] Done
+
+7. Run the [Color Cube Grasping Demo](https://github.com/xArm-Developer/xarm_ros#75-color-cube-grasping-demo)(It's not neccesary to use the lite6 robot)
+- [ ] Done
+
+9. Understand the [color_recognition.py](https://github.com/xArm-Developer/xarm_ros/blob/master/xarm_gazebo/scripts/color_recognition.py) script
+- [ ] Done
+
+11. Create a service which, depending the color you send, it returns a list with all the cubes positions. Then create an script able to perfom a pick and place task one cube over another in any order you want
+- [ ] Done
 
 ## References
 - [xArm developer ROS package](https://github.com/xArm-Developer/xarm_ros)
